@@ -302,7 +302,7 @@ Projeto reservado para uma futura aplicação.
 <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=00F0FF"/>
 </a>
 
-<a href="https://[www.linkedin.com/](https://www.linkedin.com/in/weslei-farias-2231ab398/)">
+<a href="https://www.linkedin.com/in/weslei-farias-2231ab398/">
 <img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00F0FF"/>
 </a>
 
@@ -354,4 +354,22 @@ Projeto reservado para uma futura aplicação.
 
 <sub>© 2026 Weslei de Farias • Built with code, curiosity and caffeine.</sub>
 
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/devwesleifarias/devwesleifarias/output/github-contribution-grid-snake-dark.svg"
+  >
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/devwesleifarias/devwesleifarias/output/github-contribution-grid-snake.svg"
+  >
+
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/devwesleifarias/devwesleifarias/output/github-contribution-grid-snake.svg"
+  >
+</picture>
 </div>
